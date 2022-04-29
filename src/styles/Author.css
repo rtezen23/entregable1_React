@@ -1,0 +1,10 @@
+.author{
+    align-self: flex-end;
+    display: flex;
+    flex-direction: column;
+}
+
+.author i{
+    font-size: 40px;
+    align-self: flex-end;
+}

@@ -1,0 +1,13 @@
+.quote{
+    display: flex;
+    gap: 10px;
+    margin-bottom: 20px;
+}
+
+.quote i{
+    font-size: 40px;
+}
+
+.quote p{
+    text-align: center;
+}
